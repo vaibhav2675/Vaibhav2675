@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **vaibhavsalode2675@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** FullStack Developer projects (jAVA and  Reactjs)
+- 🔭 **I’m currently working on:** FullStack Developer projects (JAVA and  Reactjs)
 - 🌱 **I’m currently learning:**  Upgrading in Java,React,Springboot,spring MVC,spring Auth,Nextjs,MySQL,Rest Assured,Postgresql
 - 👯 **I’m looking to collaborate on:** Web Aplllication projects
 - 🤔 **I’m looking for help with:** Java Fullstack Projects
