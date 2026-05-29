@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Vaibhav Salode
-**Full Stack Developer (MERN & Java) | 4.3+ Years of Experience in Scalable Web Solutions | Building Robust Applications| Delivering End-to-End Solutions**
+**Full Stack Developer (Java Fullstack Developer) | 4.3+ Years of Experience in Scalable Web Solutions | Building Robust Applications| Delivering End-to-End Solutions**
 
 Email Me 👉 ✉️ **vaibhavsalode2675@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** FullStack Developer projects (MERN, jAVA)
-- 🌱 **I’m currently learning:**  Upgrading in React,Node,MongoDB,Express,Springboot,Nextjs,MySQL,Rest Assured 
+- 🔭 **I’m currently working on:** FullStack Developer projects (jAVA and  Reactjs)
+- 🌱 **I’m currently learning:**  Upgrading in Java,React,Springboot,spring MVC,spring Auth,Nextjs,MySQL,Rest Assured,Postgresql
 - 👯 **I’m looking to collaborate on:** Web Aplllication projects
-- 🤔 **I’m looking for help with:** Fullstack MERN Projects
+- 🤔 **I’m looking for help with:** Java Fullstack Projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vaibhavsalode2675@gmail.com
 - ⚡ **Fun fact:** Love building scalable web apps & learning new tech 🚀
